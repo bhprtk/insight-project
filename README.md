@@ -4,8 +4,11 @@ CI/CD pipeline for data-pipeline written in Docker containers
 ## What is the purpose, and most common use cases?
 The purpose is to enable data engineers to develop data pipeline in Docker containers without having to worry about continuous integration.
 ## Which technologies are well-suited to solve those challenges? (list all relevant)
-* Docker
-* Kubernetes
+* AWS
+* Kafka
+* Spark
+* MongoDB
+* GIT
 * Jenkins
 ## Proposed architecture
 S3 —> Kafka —> Spark —> MongoDB —> Open Source API
