@@ -7,3 +7,4 @@ Automatically scale and self heal CI/CD servers for automated tests and deployme
 * ECS
 * Docker
 * Jenkins
+* Terraform
